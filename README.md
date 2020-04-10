@@ -36,7 +36,7 @@ Para criar a marcação utiliza-se o * ou ou - seguido de espaço
 * teste
 
 # lista de tarefas
-Para criar uma tarefa utilizamos o - [ ] quando uma tarefa estiver concluida - [ X ]
+Para criar uma tarefa utilizamos o - [ ] quando uma tarefa estiver concluida - [X]
 - [x] Criar página principal
 - [ ] Criar página da loja
 - [X] Terminar a Reunião com o cliente
@@ -50,8 +50,25 @@ Adicionando Links []Texto de descrição ()link para adicionar
 # Tabelas
 Num | Nome | Nota
 ---|---|---
-1 | Gustavo | 5,5
+1 | Gustavo | 8,5
 2 | josé | 10
 3 | Maria |8.5
 
 Terminou a tabela
+
+# comandos em Markdow
+
+Não entendo compreendo o comando `document.getElementByid()` da linguagem JavaScript
+
+Veja o meu programa em Python
+```
+num = int(imput('Digite um valor:'))
+if num%2 == 0;
+   print(f'O valor {num} é PAR')
+else;
+    print(f'O valor {num} é ÍMPAR')
+```
+
+# Emojis 
+
+Olá pequenos gafanhotos :hand :vulcan-salute 🖖
