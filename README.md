@@ -26,3 +26,18 @@ utilizando um número seguido de ponto **1.** para criar um intem dentro da list
    1. teste b
 1. Teste2
 1. Teste3
+
+# Lista Demarcada com marcador
+Para criar a marcação utiliza-se o * ou ou - seguido de espaço
+* teste
+* teste
+   * teste a
+   * teste b
+* teste
+
+# lista de tarefas
+Para criar uma tarefa utilizamos o - [] quando uma tarefa estiver concluida - [X]
+- [x] Criar página principal
+- [] Criar página da loja
+- [X] Terminar a Reunião com o cliente
+- [] Concluir projeto
