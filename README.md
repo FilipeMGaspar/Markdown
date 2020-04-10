@@ -17,3 +17,12 @@ Estou aprendendo linguagem **Markdown** no Curso em Video de Git e Github
 Linha Horizontal utilizando ou três * ou três -
 ***
 
+Misturando Elementos __*Mistura de negrito com itálico*__
+
+# Listas Numerada 
+utilizando um número seguido de ponto **1.** para criar um intem dentro da lista ou SubLista temos de dentro do item colocar 3 espaços.
+1. Teste
+   1. teste a
+   1. teste b
+1. Teste2
+1. Teste3
