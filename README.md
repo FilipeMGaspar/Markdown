@@ -71,4 +71,11 @@ else;
 
 # Emojis 
 
-Olá pequenos gafanhotos :hand :vulcan-salute 🖖
+Olá pequenos gafanhotos  :vulcan-salute 🖖 :hand ✋
+
+# citações e marcar pessoas
+
+Como diria @gustavogunabara "mão na massa" funciona somente no issues
+> funciona como reply
+
+
