@@ -46,3 +46,12 @@ Para criar uma tarefa utilizamos o - [ ] quando uma tarefa estiver concluida - [
 Adicionando Links []Texto de descrição ()link para adicionar
 
 [Acesso ao meu github](https://github.com/FilipeMGaspar)
+
+# Tabelas
+Num | Nome | Nota
+---|---|---
+1 | Gustavo | 5,5
+2 | josé | 10
+3 | Maria |8.5
+
+Terminou a tabela
