@@ -13,3 +13,7 @@ Estou aprendendo linguagem **Markdown** no Curso em Video de Git e Github
 # Titulo# nivel 1 #Criam titulo de nivel um
 ## Titulo nivel 2 ##Cria um titulo de nivél dois 
 ### Titulo nivel 3 ###Cria um titulo de nivel três
+
+Linha Horizontal utilizando ou três * ou três -
+***
+
