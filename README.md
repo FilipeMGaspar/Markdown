@@ -36,8 +36,13 @@ Para criar a marcação utiliza-se o * ou ou - seguido de espaço
 * teste
 
 # lista de tarefas
-Para criar uma tarefa utilizamos o - [] quando uma tarefa estiver concluida - [X]
+Para criar uma tarefa utilizamos o - [ ] quando uma tarefa estiver concluida - [ X ]
 - [x] Criar página principal
 - [] Criar página da loja
 - [X] Terminar a Reunião com o cliente
 - [] Concluir projeto
+- [ ] incompleto
+
+Adicionando Links []Texto de descrição ()link para adicionar
+
+[Acesso ao meu github](https://github.com/FilipeMGaspar)
